@@ -1,0 +1,17 @@
+h1 {
+    background-color: lightgoldenrodyellow;
+    color: red;
+    font-family: garamond;
+    font-weight: 100;
+    text-align: center;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+ul li a {
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
